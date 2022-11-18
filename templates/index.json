@@ -1,0 +1,198 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/naomi-hebert-MP0bgaS_d1c-unsplash_1.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 100,
+            "text_color": "#ffffff",
+            "title": "Don't Junk Your Appliances",
+            "content": "Learn to diagnose and repair them to save the environment and your wallet",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "title": "A few items we sell",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "View all",
+        "link_url": "shopify:\/\/collections\/all"
+      }
+    },
+    "9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb": {
+      "type": "promotion-list",
+      "blocks": {
+        "template--16666995785944__9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb-1666591432ea363525-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/box-1536798_1920.png",
+            "show_overlay": true,
+            "overlay_opacity": 80,
+            "stretch_image": false,
+            "background": "#0044e0",
+            "text_color": "#ffffff",
+            "title": "Free US Shipping on Orders $23.00 and Over!",
+            "content": "<p>We try to keep prices low AND with Free US Shipping on all orders over $23.00.<\/p>",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#6f42ef",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "template--16666995785944__9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb-1666591432ea363525-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fridge_New_from_Christopher.png",
+            "show_overlay": false,
+            "overlay_opacity": 50,
+            "stretch_image": false,
+            "background": "#fc2a68",
+            "text_color": "#ffffff",
+            "title": "Diagnosis & Installation Videos",
+            "content": "<p>Don't buy a product before you know that's whats wrong. Browse Ben's entire channel of fixes and findings.<\/p>",
+            "content_position": "top_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#fc2a68",
+            "button_text": "YouTube Channel",
+            "button_link": "https:\/\/www.youtube.com\/channel\/UC1sWwB45heL1CfLHLBXCXow\/videos"
+          }
+        }
+      },
+      "block_order": [
+        "template--16666995785944__9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb-1666591432ea363525-0",
+        "template--16666995785944__9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb-1666591432ea363525-1"
+      ],
+      "settings": {
+        "expand_items": true,
+        "section_size": "medium",
+        "stack_mobile": false
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "samsung-refrigerator-parts",
+            "link": ""
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "link": ""
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "whirlpool-style-washers",
+            "link": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "electronic-components",
+            "link": ""
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "whirlpool-dryer",
+            "link": ""
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "ge-refrigerators",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3",
+        "collection-4",
+        "collection-5",
+        "collection-6"
+      ],
+      "settings": {
+        "title": "Popular Product Categories",
+        "link_title": "View all",
+        "link": "shopify:\/\/collections",
+        "round_images": true,
+        "show_collection_title": true
+      }
+    },
+    "db756afa-478f-4c25-8f7b-8ccb78710225": {
+      "type": "collection-with-image",
+      "settings": {
+        "collection": "top-selling-items",
+        "products_count": 12,
+        "show_quick_buy": false,
+        "background": "#580c6e",
+        "text_color": "#ffffff",
+        "title": "Our best sellers",
+        "content": "What are people buying to fix their appliances? This is the list of lists from our store to your broken appliance.",
+        "button_background": "#e95d2b",
+        "button_text_color": "#ffffff",
+        "button_text": "Learn more",
+        "button_link": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "news",
+        "blog_posts_count": 3,
+        "title": "News & Upcoming Items",
+        "link_title": "View all",
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": false,
+        "stack_mobile": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "9ddaa06b-c7f4-4c1c-aaec-5d333bf372eb",
+    "collection-list",
+    "db756afa-478f-4c25-8f7b-8ccb78710225",
+    "blog-posts"
+  ]
+}

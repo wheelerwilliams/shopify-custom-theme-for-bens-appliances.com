@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Join Us",
+            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+            "subtext": "100% free, Unsubscribe any time!",
+            "background": "#1e2d7d",
+            "text": "#ffffff"
+          }
+        },
+        "social-media": {
+          "type": "social_media",
+          "settings": {
+            "title": "Follow us",
+            "show_rss": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "social-media"
+      ],
+      "settings": {
+        "articles_per_page": 12,
+        "highlight_first_article": true,
+        "show_tags": true,
+        "show_category": true,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpt": false
+      }
+    },
+    "76bdbb9a-f3ce-4c03-8be5-c4a094a51bec": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "content": "<p>Get coupons and new product information every few weeks!<\/p>",
+        "background": "#1e2d7d",
+        "text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "76bdbb9a-f3ce-4c03-8be5-c4a094a51bec"
+  ]
+}
