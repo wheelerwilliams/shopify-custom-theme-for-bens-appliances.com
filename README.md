@@ -1,11 +1,11 @@
-# shopfiy-custom-theme-for-bens-appliances.com
+## shopfiy-custom-theme-for-bens-appliances.com
 Theme update for bens-appliances.com
 
-# Original theme
+## Original theme
 Warehouse version 3.0.0
 
-# code files
+## code files
 
 
-# Project URL
+## Project URL
 https://bens-appliances.com
