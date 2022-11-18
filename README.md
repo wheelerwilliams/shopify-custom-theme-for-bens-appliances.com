@@ -1,15 +1,11 @@
-# shopfiy-custom-bundle-box-vilros.com
-Multi-step custom bundle box for vilros.com
+# shopfiy-custom-theme-for-bens-appliances.com
+Theme update for bens-appliances.com
+
+# Original theme
+Warehouse version 3.0.0
 
 # code files
-bundle-landing.liquid
-bundle-board.liquid
-bundle-use.liquid
-bundle-case.liquid
-bundle-card.liquid
-bundle-power-supply.liquid
-bundle-cable.liquid
-custom.js
+
 
 # Project URL
-https://vilros.com/pages/bundle-box
+https://bens-appliances.com
